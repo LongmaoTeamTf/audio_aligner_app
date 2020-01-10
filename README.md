@@ -7,7 +7,7 @@ python 3.7
 
 ### 部署语音对齐模型
 1. 安装和编译kaldi环境
-2. 克隆 https://gitlab.com/longmaoteam/audio_manager_model解压tfaligner.tar.gz将tfaligner文件夹拷贝至kaldi的egs目录下  
+2. git clone git@github.com:LongmaoTeamTf//audio_manager_model 解压tfaligner.tar.gz将tfaligner文件夹拷贝至kaldi的egs目录下  
 3. 打开tfaligner目录  
 4. 创建steps和utils软链接：  
     ```shell 
@@ -18,11 +18,6 @@ python 3.7
 
 ### 部署应用
 操作步骤 ： 
-- 克隆代码
-
-`
-git clone git@gitee.com:zeus_four/audio_manager_api.git
-`
 - 安装依赖
 
 ` 
