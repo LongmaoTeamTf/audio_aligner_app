@@ -10,4 +10,6 @@ modules/*/*/__pycache__/*
 
 .vscode
 .idea
-static
+static/logs
+static/upload
+static/volume
