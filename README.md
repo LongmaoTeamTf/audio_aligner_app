@@ -1,5 +1,5 @@
 # 文本对齐 
-
+本应用为基于kaldi的文本对齐web应用，支持中文和英文文本对齐。支持长文本，对齐速度快。
 ## 环境要求
 - 操作系统 : linux MacOs 
 - 软件依赖 : mongo kaldi（https://github.com/kaldi-asr/kaldi） 
