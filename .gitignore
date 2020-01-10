@@ -1,0 +1,13 @@
+.DS_store
+
+*.log
+*.log.*
+*.pyc
+
+__pycache__/*
+modules/*/*/*/__pycache__/*
+modules/*/*/__pycache__/*
+
+.vscode
+.idea
+static
