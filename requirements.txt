@@ -11,7 +11,7 @@ PyMySQL==0.9.2
 pytz==2018.5
 redis==2.10.6
 requests==2.13.0
-Scrapy==1.5.1
+Scrapy==2.6.2
 scrapy-djangoitem==1.1.1
 pymongo==3.7.1
 python-unsplash==1.0.1
